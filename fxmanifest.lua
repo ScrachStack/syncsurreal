@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-
+lua54 'yes'
 name 'syncsurreal'
 author 'ScratchStack (Sync Studio)'
 description 'SurrealDB Cloud wrapper for FiveM (Lua 5.4)'
